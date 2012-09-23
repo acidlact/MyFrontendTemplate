@@ -1,0 +1,4 @@
+MyFrontendTemplate
+==================
+
+Frontend Template
